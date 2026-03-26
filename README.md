@@ -1,2 +1,0 @@
-# PlacementPrepFrontend
-Placement Preparation Frontend
